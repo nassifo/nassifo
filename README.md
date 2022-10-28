@@ -1,5 +1,5 @@
 - Hi, I’m @nassifo
-- I’m interested in software solutions, workflow automation, integrations, and low-maintenance machine learning.
+- I’m interested in software solutions, workflow automation, system integration, and low-maintenance machine learning.
 - I’m currently learning .NET 6 and JS.
 
 <!---
